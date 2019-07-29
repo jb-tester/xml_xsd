@@ -1,0 +1,6 @@
+before_cache: false
+after_deploy: ddd
+branches:
+  except:
+    - sss
+    - sdddd
